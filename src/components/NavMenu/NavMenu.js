@@ -8,7 +8,7 @@ class NavMenu extends Component {
         <StyledLink to={'/'}>Home</StyledLink>
         <StyledLink to={'/projects'}>Projects</StyledLink>
         {<StyledLink to={'/aboutMe'}>About Me</StyledLink> }
-        <StyledLink to={'/tutorials'}>Want to Create?</StyledLink>
+        <StyledLink to={'/tutorials'}>Want Create?</StyledLink>
       </Container>
     );
   }
